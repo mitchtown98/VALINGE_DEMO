@@ -1,2 +1,2 @@
-# VALINGE_DEMO
-Repo for Valinge Robot Demo
+# VALINGE ROBOT DEMO
+> Repo for Valinge Robot Demo.
